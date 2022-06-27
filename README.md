@@ -8,3 +8,6 @@ Some very simple Bose-Enstein Condensate (BEC) simulations using the Python [`Tr
 ## Credits
 * The double-well formula comes from [Appendix G: Double-Well Potential: Symmetry and Tunneling](https://www2.chem.umd.edu/groups/alexander/chem691/Double_well.pdf) from Dr. Millard H. Alexander's Chem 691 course, Spring 2017 at the University of Maryland
 * Imaginary versus Real Time Evolution notes come from user [hadsed](https://physics.stackexchange.com/users/21895/hadsed)'s answer to [Difference between real time and imaginary time propagation?](https://physics.stackexchange.com/questions/58183/difference-between-real-time-and-imaginary-time-propagation)
+
+## License
+This project is licensed under the [GNU GPLv3](https://choosealicense.com/licenses/gpl-3.0/) license.
